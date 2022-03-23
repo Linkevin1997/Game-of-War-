@@ -10,5 +10,6 @@ Players take turns playing the top card from their stacks. Whoever's card is a h
 If there is a tie, then it's War! Each player adds three cards of their stack face down. Each player reveals their fourth card. Whoever wins that reveal takes all of the cards! If there is another tie the process repeats until there is a winner.
 
 ## Contact
-If you'd like to learn more, collaborate, or have suggestions for projects I can create. Please feel free to connect with me on <a href=“linkedin.com/in/kevinlin1997”></a>.
+If you'd like to learn more, collaborate, or have suggestions for projects I can create. Please feel free to connect with me on linkedin.com/in/kevinlin1997
+
 
